@@ -9,7 +9,7 @@
   };
 
   function innit(){
-    //console.log(document,'<<doc window::',window);
+    //console.log(document,'<<doc innit init window::',window);
     setinitial();
     return true;
   };
