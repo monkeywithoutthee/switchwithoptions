@@ -1,5 +1,6 @@
 .material-icons{
   color:rgba(255,255,255,0.8);
+  cursor: pointer;
 }
 
 .switchHolder{
@@ -7,6 +8,7 @@
   width: 100px;
   display:inline-block;
   padding-bottom:3px;
+  border-radius: 5px;
 }
 .bodyClass{
   text-align: center;
@@ -33,4 +35,15 @@
 }
 .clickedclass{
   background-color: green;
+}
+.mainholder{
+  background-color: rgba(0,0,0,0.8);
+  display: inline-block;
+  border-radius: 5px;
+}
+.addNewHolder{
+  display: inline-block;
+  vertical-align: super;
+  color: white;
+  padding: 10px;
 }
